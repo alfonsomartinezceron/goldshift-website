@@ -3,9 +3,9 @@ import requests
 import numpy as np
 import pandas as pd
 import matplotlib as plt
-from PIL import Image
+#from PIL import Image
 import requests
-from io import BytesIO
+#from io import BytesIO
 
 # Function to interact with FastAPI backend
 def get_prediction():
